@@ -1,0 +1,4 @@
+2025-03-14 12:00:00 INFO Starting process
+2025-03-14 12:01:00 ERROR Something went wrong
+2025-03-14 12:02:00 WARNING Low memory
+2025-03-14 12:03:00 ERROR Failed to load resource
